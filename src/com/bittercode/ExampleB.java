@@ -2,7 +2,7 @@ package com.bittercode;
 
 import java.util.Scanner;
 
-//WAP to find squares of two numbers
+//WAP to find sum of squares of two numbers
 public class ExampleB {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
